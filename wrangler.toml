@@ -4,7 +4,17 @@ account_id = "e96a50452a1bfa03949db6664f4cc873"
 workers_dev = true
 compatibility_date = "2024-10-03"
 
+# Укажите директорию со статическими файлами
+[build]
+command = "npm run build"  # Команда для сборки вашего проекта
+cwd = "."                    # Текущая директория
+watch_dir = "./dist"        # Директория для отслеживания изменений
+upload = { 
+  format = "directory", 
+  dir = "./dist"            # Директория с вашими статическими файлами
+}
+
 [site]
 bucket = "./dist"               # Папка с вашими статическими файлами
-entry-point = "workers-site"     # Это может быть не нужно для Pages, но можно оставить
-pages_build_output_dir = "./dist" # Добавьте это поле для указания директории с вашими статическими файлами
+entry-point = "workers-site"     # Можно оставить для совместимости
+pages_build_output_dir = "./dist" # Директория с выходными данными для Cloudflare Pages
