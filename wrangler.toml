@@ -18,3 +18,4 @@ upload = {
 bucket = "./dist"               # Папка с вашими статическими файлами
 entry-point = "workers-site"     # Можно оставить для совместимости
 pages_build_output_dir = "./dist" # Директория с выходными данными для Cloudflare Pages
+
