@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Создать сайт для начинающих легко 2024",
+    "title": "Создать сайт для начинающих легко в 2024",
     "base_url": "https://sozda-site.ru",
     "base_path": "/",
     "trailing_slash": false,
@@ -24,12 +24,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "© Все права защищены [SOZDA](https://sozda-site.ru) 2024"
+    "copyright": "© Все права защищены. [SOZDA](https://sozda-site.ru), 2024"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
-  }
+  "address": "г. Москва, ул. Тверская, д. 1",
+  "email": "info@bookworm.org",
+  "phone": "+7 495 123 45 67"
+}
+
 }

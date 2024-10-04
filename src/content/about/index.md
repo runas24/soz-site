@@ -1,23 +1,23 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
-meta_title: "About"
+title: "Мы команда SOZDA, помогающая людям создавать сайты"
+meta_title: "О нас"
 image: "/images/author.png"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "Чем мы занимаемся?"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-  
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
-  
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+  - title: "Обучение веб-разработке"
+    description: "Мы проводим курсы и мастер-классы, где обучаем основам веб-разработки, включая HTML, CSS и JavaScript."
+
+  - title: "Создание сайтов"
+    description: "Наша команда помогает новичкам в создании их первых сайтов, начиная с концепции и заканчивая запуском."
+
+  - title: "Поддержка и консультации"
+    description: "Мы предоставляем поддержку на всех этапах разработки, а также проводим консультации по улучшению и продвижению сайтов."
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+Команда SOZDA — это группа профессионалов с опытом в области веб-разработки и дизайна. Мы стремимся сделать создание сайтов доступным и понятным для всех. Наши курсы и ресурсы помогут вам освоить навыки, необходимые для создания качественного веб-продукта.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+Мы верим, что каждый может научиться создавать свой сайт, и мы здесь, чтобы поддержать вас на этом пути. Присоединяйтесь к нам и откройте для себя мир веб-разработки с командой SOZDA!

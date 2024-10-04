@@ -10,52 +10,47 @@
           "url": "/categories"
 
     },
+
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Темы",
+      "url": "/tags"
     },
+
+    
     {
-      "name": "Pages",
+      "name": "Еще",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
+          "name": "Авторы",
           "url": "/authors"
         },
+        {
+          "name": "Связаться",
+          "url": "/contact"
+        },
         
-        {"name": "About",
+        {"name": "О проекте",
       "url": "/about"
 
-        },
-        {
-          "name": "Темы",
-          "url": "/tags"
-        },
-        {
-          "name": "Элементы",
-          "url": "/elements"
-        },
-        {
-          "name": "Политика",
-          "url": "/privacy-policy"
         }
+      
+       
+        
       ]
     }
   ],
   "footer": [
     {
-      "name": "About",
+      "name": "О проекте",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Связаться",
       "url": "/contact"
     },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
+    
     {
       "name": "Политика",
       "url": "/privacy-policy"

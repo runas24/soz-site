@@ -1,4 +1,4 @@
 ---
-title: "Contact"
+title: "Связаться"
 draft: false
 ---
