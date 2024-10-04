@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Создай сайт",
+    "title": "Создать сайт для начинающих легко 2024",
     "base_url": "https://sozda-site.ru",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "logo": "/images/logo.svg",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Создай сайт"
+    "logo_text": "Создать сайт с нуля в 2024 году"
   },
 
   "settings": {
@@ -19,12 +19,12 @@
   "metadata": {
     "meta_author": "Sozdat Site",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Хочу создать сайт в 2024 быстро"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "© Все права защищены [SOZDA](https://sozda-site.ru) 2024"
   },
 
   "contactinfo": {

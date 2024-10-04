@@ -10,6 +10,7 @@
     "deploy": "npm run build && npx wrangler pages deploy ./dist"
   },
   "dependencies": {
+    "@astrojs/image": "^0.18.0",
     "@astrojs/mdx": "^3.0.1",
     "@astrojs/react": "^3.4.0",
     "@astrojs/rss": "^4.0.6",
