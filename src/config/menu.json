@@ -1,12 +1,14 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Главная",
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      
+"name": "Категории",
+          "url": "/categories"
+
     },
     {
       "name": "Contact",
@@ -21,20 +23,21 @@
           "name": "Authors",
           "url": "/authors"
         },
-        {
-          "name": "Categories",
-          "url": "/categories"
+        
+        {"name": "About",
+      "url": "/about"
+
         },
         {
-          "name": "Tags",
+          "name": "Темы",
           "url": "/tags"
         },
         {
-          "name": "Elements",
+          "name": "Элементы",
           "url": "/elements"
         },
         {
-          "name": "Privacy Policy",
+          "name": "Политика",
           "url": "/privacy-policy"
         }
       ]
@@ -54,7 +57,7 @@
       "url": "/elements"
     },
     {
-      "name": "Privacy Policy",
+      "name": "Политика",
       "url": "/privacy-policy"
     }
   ]
