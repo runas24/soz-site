@@ -17,10 +17,11 @@ export const humanize = (content: string) => {
     .replace(/^[\s_]+|[\s_]+$/g, "")
     .replace(/[_\s]+/g, " ")
     .replace(/[-\s]+/g, " ")
-    .replace(/^[a-z]/, function (m) {
+    .replace(/^[а-яa-z]/, function (m) {
       return m.toUpperCase();
     });
 };
+
 
 // titleify
 export const titleify = (content: string) => {
